@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+.css-zko0ja,
+[data-css-zko0ja] {
+  -ms-flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-lines: nowrap;
+  -webkit-box-direction: normal;
+  -webkit-box-orient: vertical;
+  -webkit-justify-content: space-between;
+  -webkit-flex-direction: column;
+  -ms-flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap;
+  text-align: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  font-family: helvetica neue;
+  font-size: 30px;
+}
+
+.css-4ua94u,
+[data-css-4ua94u] {
+  border-bottom: 1px dashed gray;
+}
+
+.css-lkh0sc,
+[data-css-lkh0sc] {
+  font-size: 40px;
+  margin: 20px 0;
+  color: #000;
+}
+
+.css-6nrkpz,
+[data-css-6nrkpz] {
+  list-style: none;
+}
+
+.css-f3khu,
+[data-css-f3khu] {
+  margin: 10px 0;
+}
+
+<div
+  className="css-zko0ja"
+>
+  <div
+    className="css-4ua94u"
+  >
+    <div
+      className="css-lkh0sc"
+    >
+      WINTER ❄️
+    </div>
+    <ul>
+      <li
+        className="css-6nrkpz"
+      >
+        ⛄
+      </li>
+      <li
+        className="css-6nrkpz"
+      >
+        ⛷️
+      </li>
+      <li
+        className="css-6nrkpz"
+      >
+        🏂
+      </li>
+    </ul>
+  </div>
+  <div
+    className="css-4ua94u"
+  >
+    <div
+      className="css-lkh0sc"
+    >
+      SPRING 🌱
+    </div>
+    <ul>
+      <li
+        className="css-6nrkpz"
+      >
+        👩‍🌾
+      </li>
+    </ul>
+  </div>
+  <div
+    className="css-4ua94u"
+  >
+    <div
+      className="css-lkh0sc"
+    >
+      SUMMER ☀️
+    </div>
+    <div
+      className="css-f3khu"
+    >
+      Activities coming soon ...
+    </div>
+  </div>
+  <div
+    className="css-4ua94u"
+  >
+    <div
+      className="css-lkh0sc"
+    >
+      AUTUMN 🍂
+    </div>
+    <div
+      className="css-f3khu"
+    >
+      Activities coming soon ...
+    </div>
+  </div>
+</div>
+`;
