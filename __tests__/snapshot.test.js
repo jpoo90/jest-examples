@@ -13,8 +13,6 @@ import {matcher, serializer} from 'jest-glamor-react';
 expect.addSnapshotSerializer(serializer);
 expect.extend(matcher);
 
-expect.addSnapshotSerializer(serializer);
-
 it('renders correctly', () => {
   const wrapper = shallow(<Seasons />);
   expect(toJson(wrapper)).toMatchSnapshotWithGlamor();
